@@ -26,6 +26,10 @@ https://medium.com/laravel-4
 
 http://net.tutsplus.com/tag/laravel/
 
+http://todovel.frenetic.com.br/
+
+http://www.flynsarmy.com/2013/12/creating-a-basic-todo-application-with-laravel-4-part-2/
+
 Forum:
 
 Oficial http://forumsarchive.laravel.io/
